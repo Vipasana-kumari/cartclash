@@ -81,24 +81,8 @@ Use XAMPP or similar to host the project locally and access via:
 http://localhost/gem_price-comparison/
 ```
 
-## 📈 Future Enhancements
 
-- AI-powered product suggestions
-- More marketplace integrations
-- Advanced analytics for price patterns
-- Browser extension for instant comparison
 
-## 📮 Feedback & Contribution
 
-Contributions are welcome! Please fork the repo and submit a pull request. For issues or suggestions, feel free to open an issue.
 
-## 👤 Author
 
-**Alok Kumar**  
-**Anvesh Mishra**
-**Pallavi Jaiswal**
-**Devesh Jaiswal**
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
